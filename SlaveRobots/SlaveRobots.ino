@@ -1,5 +1,5 @@
 /*Abedallah Abedrabbah
- *Connor Lunduski
+ *CL
  *
  *Capstone
  *Slave Robot One Software to run
